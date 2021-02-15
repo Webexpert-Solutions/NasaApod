@@ -1,0 +1,18 @@
+button {
+  width: 300px;
+  padding: 20px;
+  font-size: 2rem;
+  border-radius: 50%;
+  background-color: rebeccapurple;
+  outline-style: none;
+  color: #f8cc08;
+  margin: 10% 20%;
+}
+
+button:hover {
+  cursor: pointer;
+  -webkit-transition: linear 3s;
+  transition: linear 3s;
+  border-radius: 5%;
+}
+/*# sourceMappingURL=buton.css.map */

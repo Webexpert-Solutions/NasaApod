@@ -1,0 +1,19 @@
+/* mixins */
+
+$textColor: black;
+
+@import url("https://fonts.googleapis.com/css2?family=Righteous&display=swap");
+
+body {
+  background-color: rgb(22, 21, 21);
+  background-image: url("../Active/star.png");
+  background-repeat: repeat-x repeat-y;
+  background-size: 40px;
+  text-align: center;
+}
+
+h1,
+h2,
+h3 {
+  color: rgb(245, 8, 107);
+}

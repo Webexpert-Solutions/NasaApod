@@ -1,0 +1,16 @@
+/* mixins */
+@import url("https://fonts.googleapis.com/css2?family=Righteous&display=swap");
+body {
+  background-color: #161515;
+  background-image: url("../Active/star.png");
+  background-repeat: repeat-x repeat-y;
+  background-size: 40px;
+  text-align: center;
+}
+
+h1,
+h2,
+h3 {
+  color: #f5086b;
+}
+/*# sourceMappingURL=App.css.map */
