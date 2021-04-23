@@ -3,6 +3,8 @@ import "./nav.css";
 import nasa from "../Active/nasa.png";
 import { Link } from "react-router-dom";
 
+//chubadanalia
+
 export default function Navi() {
   return (
     <div>
